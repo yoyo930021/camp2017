@@ -1,0 +1,12 @@
+node_modules/
+
+.sass-cache
+sass/
+
+.DS_Store
+
+*.swp
+
+README.md
+package.json
+yarn.lock
